@@ -1,1 +1,1 @@
-# Automated-Parking-Lot-Management
+# Automated Parking Lot Management Project
